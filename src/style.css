@@ -12,6 +12,11 @@ a {
     padding: 6px;
 }
 
+h1 {
+    color: #828271;
+    font-size: 1.3em;
+}
+
 #principal {
     width: 900px;
 }
@@ -26,6 +31,10 @@ a {
     padding: 10px;
 }
 
-.centralize {
+#baseboard {
     text-align: center;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae;
 }
